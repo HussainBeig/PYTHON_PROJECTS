@@ -1,0 +1,1 @@
+{"Hello": "namaskar", "Good morning": "suprabhat", "Nice to meet you": "aapse milkar achchha laga", "Good bye": "alvida", "Thank you": "Shukriya", "How are you?": "tum kaise ho?"}
